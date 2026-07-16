@@ -1,0 +1,10 @@
+{
+  "name": "Everwild Good Vibes Hub",
+  "short_name": "Everwild Vibes",
+  "description": "Daily Everwild affirmations, official festival links, artist links, tickets, merch, and custom creations from Sam at bgcc.store.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#123b27",
+  "theme_color": "#123b27",
+  "icons": []
+}
