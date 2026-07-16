@@ -1,4 +1,4 @@
-const CACHE = "everwild-good-vibes-hub-v2";
+const CACHE = "everwild-good-vibes-hub-v3";
 const ASSETS = ["./", "./index.html", "./manifest.webmanifest"];
 
 self.addEventListener("install", (event) => {
